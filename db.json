@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Money Tree",
+      "image": "https://image.floranext.com/instances/bloomnwa_com/wysiwyg/3/2/3268-01.jpeg?gen=1",
+      "price": 21,
+      "id": 8
     }
   ]
 }
